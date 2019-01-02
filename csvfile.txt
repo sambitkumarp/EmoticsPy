@@ -1,0 +1,13 @@
+20181201;I am happy with the services provided by the bank
+20181202;I am not happy with the services provided by the branch
+20181203;I am not abble to login into website
+20181204;I am not happy with phone service
+20181205;I am not happy with phone service
+20181206;I am not happy with branch service
+20181207;I am not happy with branch service
+20181208;mobile app not working
+20181209;mobile app not working
+20181210;website not working
+20181211;phone service not working
+20181212;I am not happy with the mobile service
+20181213;I am not able to login into mobile
