@@ -1,0 +1,10 @@
+01;webiste;loan
+02;website;login
+03;website;user
+04;website;interface
+05;mobile;loan
+06;mobile;login
+07;mobile;user
+08;mobile;interface
+09;branch;service
+10;phone;service
